@@ -1,4 +1,4 @@
-# Crypto Trading Bot - Technical Analysis & Machine Learning
+#Standard Bot vs XGboost Bot - Technical Analysis & Machine Learning
 
 ## 📊 Overview
 
